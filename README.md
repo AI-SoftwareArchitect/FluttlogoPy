@@ -1,9 +1,5 @@
 # FluttlogoPy
-A tool for generating and enhancing logos (mipmap) for Flutter.
-
-# 🚀 Logo Icon Generator
-
-**Tek komutla profesyonel mipmap ikon seti oluşturucu**
+**A tool for generating and enhancing logos (mipmap) for Flutter.
 
 ## 📦 Özellikler
 - ⚡ Tek tıkla 5 farklı boyutta ikon oluşturma
